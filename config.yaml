@@ -4,7 +4,7 @@ mlflow:
 
 data:
   file_path: "data/dataset.csv"           # your dataset CSV file (ensure it exists)
-  target_column: "target"                    # the target column name
+  target_column: "Target"                    # the target column name
 
 models:
   Gradient Boosting:
